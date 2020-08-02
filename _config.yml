@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jesse Vig"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research scientist working on NLP and Explainable AI."
+#   location         : "Location"
   employer         : Salesforce Research
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=jesse"
   googlescholar    : "https://scholar.google.com/citations?user=OWwZXTwAAAAJ"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jessevig"
+  twitter          : "jesse_vig"
   vine             :
   weibo            :
   xing             :
